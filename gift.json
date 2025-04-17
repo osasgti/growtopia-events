@@ -244,5 +244,11 @@
     "sender": "musalex4",
     "count": 1,
     "handled": false
+  },
+  {
+    "last_gift": "Rose",
+    "sender": "kurqkura",
+    "count": 1,
+    "handled": false
   }
 ]
