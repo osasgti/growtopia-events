@@ -319,5 +319,10 @@
     "sender": "bolone.bakul",
     "count": 2,
     "handled": false
+  },
+  {
+    "sender": "boeztkecil",
+    "count": 1,
+    "handled": false
   }
 ]
