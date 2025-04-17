@@ -298,5 +298,11 @@
     "sender": "virgogler123",
     "count": 3,
     "handled": false
+  },
+  {
+    "last_gift": "Rose",
+    "sender": "nab_in24",
+    "count": 1,
+    "handled": false
   }
 ]
