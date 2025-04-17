@@ -280,5 +280,11 @@
     "sender": "yoga_vision",
     "count": 2,
     "handled": false
+  },
+  {
+    "last_gift": "Rose",
+    "sender": "durga.tamang525",
+    "count": 1,
+    "handled": false
   }
 ]
