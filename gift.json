@@ -130,5 +130,11 @@
     "sender": "logann_210",
     "count": 1,
     "handled": false
+  },
+  {
+    "last_gift": "Rose",
+    "sender": "bapercabutkau",
+    "count": 1,
+    "handled": false
   }
 ]
