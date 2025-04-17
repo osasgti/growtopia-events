@@ -118,5 +118,11 @@
     "sender": "ariporong",
     "count": 1,
     "handled": false
+  },
+  {
+    "last_gift": "Rose",
+    "sender": "virooo021",
+    "count": 1,
+    "handled": false
   }
 ]
