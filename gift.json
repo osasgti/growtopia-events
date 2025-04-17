@@ -256,5 +256,11 @@
     "sender": "seno_panggilanku",
     "count": 1,
     "handled": false
+  },
+  {
+    "last_gift": "Rose",
+    "sender": "mommy_bohay_03",
+    "count": 1,
+    "handled": false
   }
 ]
