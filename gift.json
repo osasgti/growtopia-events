@@ -232,5 +232,11 @@
     "sender": "_piano001",
     "count": 1,
     "handled": false
+  },
+  {
+    "last_gift": "Rose",
+    "sender": "kakmey_09",
+    "count": 1,
+    "handled": false
   }
 ]
