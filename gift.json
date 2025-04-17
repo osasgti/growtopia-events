@@ -166,5 +166,11 @@
     "sender": "akun.orang.susah1",
     "count": 1,
     "handled": false
+  },
+  {
+    "last_gift": "Rose",
+    "sender": "cahaya15381",
+    "count": 1,
+    "handled": false
   }
 ]
