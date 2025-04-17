@@ -314,5 +314,10 @@
     "sender": "santyroom1",
     "count": 1,
     "handled": false
+  },
+  {
+    "sender": "bolone.bakul",
+    "count": 1,
+    "handled": false
   }
 ]
