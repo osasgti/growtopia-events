@@ -214,5 +214,11 @@
     "sender": "kettymurtya",
     "count": 1,
     "handled": false
+  },
+  {
+    "last_gift": "Rose",
+    "sender": "user7371520735591",
+    "count": 1,
+    "handled": false
   }
 ]
