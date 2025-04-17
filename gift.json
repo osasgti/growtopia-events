@@ -262,5 +262,11 @@
     "sender": "mommy_bohay_03",
     "count": 5,
     "handled": false
+  },
+  {
+    "last_gift": "Rose",
+    "sender": "musliminrmb",
+    "count": 1,
+    "handled": false
   }
 ]
