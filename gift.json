@@ -208,5 +208,11 @@
     "sender": "rohmisaputrah",
     "count": 1,
     "handled": false
+  },
+  {
+    "last_gift": "Rose",
+    "sender": "kettymurtya",
+    "count": 1,
+    "handled": false
   }
 ]
