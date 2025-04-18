@@ -3,5 +3,11 @@
     "sender": "Unknown",
     "count": 1,
     "handled": true
+  },
+  {
+    "sender": "bang.riel4",
+    "uniqueId": "bang.riel4",
+    "count": 1,
+    "handled": true
   }
 ]
