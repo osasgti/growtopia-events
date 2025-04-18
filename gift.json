@@ -693,5 +693,10 @@
     "sender": "anak_becin3",
     "count": 1,
     "handled": true
+  },
+  {
+    "sender": "reysa.12345678910",
+    "count": 1,
+    "handled": true
   }
 ]
