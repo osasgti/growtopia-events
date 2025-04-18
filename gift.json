@@ -2,31 +2,19 @@
   {
     "sender": "user296745169",
     "count": 1,
-    "handled": true
+    "handled": true,
+    "world": "MYAWESOMEWORLD"
   },
   {
-    "sender": "user296745169",
-    "count": 1,
-    "handled": true
+    "sender": "user123456789",
+    "count": 2,
+    "handled": true,
+    "world": ""
   },
   {
-    "sender": "haerulhamdi7",
+    "sender": "user987654321",
     "count": 1,
-    "handled": true
-  },
-  {
-    "sender": "hendramanullang90",
-    "count": 1,
-    "handled": true
-  },
-  {
-    "sender": "hendramanullang90",
-    "count": 1,
-    "handled": true
-  },
-  {
-    "sender": "hendramanullang90",
-    "count": 1,
-    "handled": true
+    "handled": false,
+    "world": ""
   }
 ]
