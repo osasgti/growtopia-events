@@ -988,5 +988,10 @@
     "sender": "avelhinna08",
     "count": 1,
     "handled": true
+  },
+  {
+    "sender": "purwanto.spy",
+    "count": 1,
+    "handled": true
   }
 ]
