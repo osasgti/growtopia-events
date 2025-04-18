@@ -993,5 +993,10 @@
     "sender": "purwanto.spy",
     "count": 1,
     "handled": true
+  },
+  {
+    "sender": "fitriah.isra",
+    "count": 1,
+    "handled": true
   }
 ]
