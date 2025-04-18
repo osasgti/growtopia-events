@@ -78,5 +78,10 @@
     "sender": "googlezonavegas",
     "count": 1,
     "handled": true
+  },
+  {
+    "sender": "cangoll",
+    "count": 1,
+    "handled": true
   }
 ]
