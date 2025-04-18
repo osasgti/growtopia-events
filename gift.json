@@ -1048,5 +1048,10 @@
     "sender": "orang_.baik01",
     "count": 1,
     "handled": true
+  },
+  {
+    "sender": "_dedemit11",
+    "count": 1,
+    "handled": true
   }
 ]
