@@ -20,5 +20,10 @@
     "uniqueId": "rahman.syahril",
     "count": 1,
     "handled": true
+  },
+  {
+    "sender": "Unknown",
+    "count": 1,
+    "handled": true
   }
 ]
